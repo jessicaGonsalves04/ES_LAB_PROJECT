@@ -1,0 +1,9 @@
+sriram.o: sriram.c
+sriram.o: C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.h
+sriram.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+sriram.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+sriram.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+sriram.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+sriram.o: C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+sriram.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+sriram.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
